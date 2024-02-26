@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Dec/2023:15:28:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:15:28:58 +0530] "GET /AdvanceDynamic/UserRegistration.jsp HTTP/1.1" 200 942
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:15:30:20 +0530] "POST /AdvanceDynamic/UserRegistrationCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:15:30:20 +0530] "GET /AdvanceDynamic/UserRegistration.jsp HTTP/1.1" 200 942
+127.0.0.1 - - [11/Dec/2023:17:58:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:17:58:41 +0530] "GET /AdvanceDynamic/UserRegistration.jsp HTTP/1.1" 200 942
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:17:59:20 +0530] "POST /AdvanceDynamic/UserRegistrationCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:17:59:20 +0530] "GET /AdvanceDynamic/UserRegistration.jsp HTTP/1.1" 200 942
+127.0.0.1 - - [11/Dec/2023:18:23:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:18:23:04 +0530] "GET /AdvanceDynamic/ForwardRedirest.jsp HTTP/1.1" 200 473
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:18:23:23 +0530] "GET /AdvanceDynamic/ForwardRedirest.jsp?FirstName=abc&LastName=xyz HTTP/1.1" 200 473
+127.0.0.1 - - [11/Dec/2023:18:24:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:18:24:53 +0530] "GET /AdvanceDynamic/ForwardRedirest.jsp HTTP/1.1" 200 499
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:18:25:00 +0530] "POST /AdvanceDynamic/FirstServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Dec/2023:18:25:00 +0530] "GET /AdvanceDynamic/SecondServlet HTTP/1.1" 404 783

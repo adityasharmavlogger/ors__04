@@ -1,0 +1,13 @@
+127.0.0.1 - - [17/Dec/2023:15:51:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:51:51 +0530] "GET /AdvanceDynamic/LoginView.jsp HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:51:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:52:14 +0530] "POST /AdvanceDynamic/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:52:14 +0530] "GET /AdvanceDynamic/WelcomeCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:52:14 +0530] "GET /AdvanceDynamic/Welcome.jsp HTTP/1.1" 200 532
+127.0.0.1 - - [17/Dec/2023:15:59:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:59:14 +0530] "GET /AdvanceDynamic/UserView.jsp HTTP/1.1" 200 1076
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:15:59:32 +0530] "GET /AdvanceDynamic/LoginView.jsp HTTP/1.1" 200 702
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:00:01 +0530] "POST /AdvanceDynamic/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:00:01 +0530] "GET /AdvanceDynamic/WelcomeCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:00:02 +0530] "GET /AdvanceDynamic/Welcome.jsp HTTP/1.1" 200 506
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:00:02 +0530] "GET /AdvanceDynamic/thar.jpg HTTP/1.1" 404 778
